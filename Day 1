@@ -1,0 +1,5 @@
+word = input("Please enter a word: ")
+if word:
+    print(word + " " + word)
+else:
+    print("You didn't enter a word.)
